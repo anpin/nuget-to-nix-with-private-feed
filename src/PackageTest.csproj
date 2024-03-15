@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Akka.Persistence.PostgreSql"  />
+    <PackageReference Include="Akka.Persistence.PostgreSql.Hosting" />
+  </ItemGroup>
+</Project>

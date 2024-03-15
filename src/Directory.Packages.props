@@ -1,0 +1,7 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="Akka.Persistence.PostgreSql" Version="1.5.15.2-json" />
+    <PackageVersion Include="Akka.Persistence.PostgreSql.Hosting" Version="1.5.15.2-json" />
+    <PackageVersion Include="Npgsql" Version="9.0.0-preview.1-ci.20240312T175023" />
+  </ItemGroup>
+</Project>
